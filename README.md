@@ -160,17 +160,6 @@ pnpm dev
 
 Then open http://localhost:3000 in your browser!
 
-## Daily Challenge Tasks
-
-Each day, you'll receive a new task that builds upon your voice agent. The tasks will help you:
-
-- Implement different personas and conversation styles
-- Add custom tools and capabilities
-- Integrate with external APIs
-- Build domain-specific agents (customer service, tutoring, etc.)
-- Optimize performance and user experience
-
-**Stay tuned for daily task announcements!**
 
 ## Documentation & Resources
 
