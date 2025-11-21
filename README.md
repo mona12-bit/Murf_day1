@@ -177,12 +177,6 @@ This is a challenge repository, but we encourage collaboration and knowledge sha
 
 This project is based on MIT-licensed templates from LiveKit and includes integration with Murf Falcon. See individual LICENSE files in backend and frontend directories for details.
 
-## Have Fun!
 
-Remember, the goal is to learn, experiment, and build amazing voice AI agents. Don't hesitate to be creative and push the boundaries of what's possible with Murf Falcon and LiveKit!
-
-Good luck with the challenge!
-
----
 
 Built for the AI Voice Agents Challenge by murf.ai
